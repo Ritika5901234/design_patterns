@@ -1,0 +1,4 @@
+Pros	                                            Cons
+It works	                                        It’s a lot of code.
+The generated user objects are thread-safe	        We have to change our ideology from newing up Users to building Users.
+We can set just the properties                      we need and the build method can handle defaults.
