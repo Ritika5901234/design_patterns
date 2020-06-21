@@ -1,0 +1,7 @@
+Examples  :
+In the Java API we have the following singletons:
+
+java.lang.Runtime
+java.awt.Desktop
+
+-problems in multi-threaded environment
